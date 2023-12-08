@@ -30,12 +30,12 @@ hr {
     margin-bottom: 10px;
 }
 
-_game {
+.game {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
 
-_game button {
+.game button {
     width: 100px;
     height: 100px;
     margin: 5px;
